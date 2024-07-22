@@ -1,0 +1,52 @@
+2024-04-09 07:28:31.583 - src.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 07:28:31.583 - src.actual_source_code.first - ERROR - To jest error
+2024-04-09 07:28:31.584 - src.actual_source_code.first - INFO - To jest tylko informacja
+2024-04-09 07:29:17.097 - src.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 07:29:17.097 - src.actual_source_code.first - ERROR - To jest error
+2024-04-09 08:33:46.541 - src.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 08:33:46.542 - src.actual_source_code.first - ERROR - To jest error
+2024-04-09 09:24:03.856 - src.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 09:24:03.857 - src.actual_source_code.first - ERROR - To jest error
+2024-04-09 09:59:31.716 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 09:59:31.716 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 09:59:34.459 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 09:59:34.460 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 10:00:04.858 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 10:00:04.875 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 10:00:04.875 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT
+2024-04-09 10:26:55.078 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 10:26:55.078 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 10:26:55.079 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT
+2024-04-09 10:27:15.094 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 10:27:15.095 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 10:27:15.095 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-09 11:24:57.885 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 11:24:57.885 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 11:24:57.885 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-09 11:28:37.172 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 11:28:37.173 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 11:28:37.173 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-09 11:28:45.744 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 11:28:45.744 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 11:28:45.744 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-09 11:29:18.589 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 11:29:18.589 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 11:29:18.589 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-09 11:30:01.425 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 11:30:01.425 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 11:30:01.425 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-09 11:30:16.718 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-09 11:30:16.718 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-09 11:30:16.718 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-10 13:00:54.407 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-10 13:00:54.407 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-10 13:00:54.407 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-10 13:12:05.906 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-10 13:12:05.906 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-10 13:12:05.909 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-10 13:12:31.093 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-10 13:12:31.093 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-10 13:12:31.093 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222
+2024-04-10 13:12:56.306 - cw4.actual_source_code.first - WARNING - To jest treść warning
+2024-04-10 13:12:56.306 - cw4.actual_source_code.first - ERROR - To jest error
+2024-04-10 13:12:56.306 - cw4.actual_source_code.first - ERROR - WHAAAAAAAAAAAAAAT222222222222222222

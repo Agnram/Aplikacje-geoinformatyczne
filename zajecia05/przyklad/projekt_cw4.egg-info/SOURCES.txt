@@ -1,0 +1,12 @@
+pyproject.toml
+cw4/__init__.py
+cw4/actual_source_code/__init__.py
+cw4/actual_source_code/first.py
+cw4/actual_source_code/for_testing.py
+cw4/utils/__init__.py
+cw4/utils/get_logger.py
+cw4/utils/parse_cli_args.py
+projekt_cw4.egg-info/PKG-INFO
+projekt_cw4.egg-info/SOURCES.txt
+projekt_cw4.egg-info/dependency_links.txt
+projekt_cw4.egg-info/top_level.txt
